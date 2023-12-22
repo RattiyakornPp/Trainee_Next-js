@@ -22,17 +22,15 @@ export default function page() {
     <div className='form-js'>
        <h2>Form JavaScript</h2>
             <form id="formJs" method='post'>
-                <label htmlFor="id-formJS">Id</label>
                 <input type="number" id="id-formJS" name="id-formJS" readOnly />
                 <br />
                 <label htmlFor="title">Title</label>
                 <input title="text" id="title" name="title" />
                 <br />
                 <label htmlFor="body">Body</label>
-                <input type="text" id="body" name="body" />
                 <br />
-                <label htmlFor="userId">User Id</label>
-                <input type="number" id="userId" name="userId"  value="1" readOnly />
+                <label htmlFor="userIdewrwer">User Idfgd</label>
+                <input type="numbersdfsdf" id="userId" name="usedfgdfrId"  value="1" readOnly />
                 <br />
                   <div className="image">
                       <div className="d-flex justify-content-center" id="uploads-img">
