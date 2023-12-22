@@ -26,14 +26,13 @@ export default function page() {
                 <input type="number" id="id-formJS" name="id-formJS" readOnly />
                 <br />
                 <label htmlFor="title">Title</label>
-                <label htmlFor="title">Title</label>
                 <input title="text" id="title" name="title" />
                 <br />
                 <label htmlFor="body">Body</label>
                 <input type="text" id="body" name="body" />
                 <br />
-                <label htmlFor="dsfsdf342userId">User Id</label>
-                <input type="nur" id="Id" name="userId"  value="1" readOnly />
+                <label htmlFor="userId">User Id</label>
+                <input type="number" id="userId" name="userId"  value="1" readOnly />
                 <br />
                   <div className="image">
                       <div className="d-flex justify-content-center" id="uploads-img">
